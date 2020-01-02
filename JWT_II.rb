@@ -25,8 +25,7 @@ puts data+"."+signature
 #на выходе получаем новый JWT-токен, который можно использовать для прохождения аутентификации в приложении
 
 
-
-public.pem >
+# поместить открытый ключ в файл с названием public.pem
 
 -----BEGIN PUBLIC KEY-----
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo2R2WvnypG871pBqaAUY
