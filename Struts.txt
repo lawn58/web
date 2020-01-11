@@ -1,0 +1,11 @@
+Struts s2-045
+
+Struts s2-045 impacts the following versions of Struts:
+
+    Struts 2.3.5
+    Struts 2.3.31
+    Struts 2.5
+    Struts 2.5.10
+
+
+https://github.com/RealBearcat/S2-045
