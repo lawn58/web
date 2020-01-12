@@ -1,0 +1,10 @@
+Struts s2-052
+
+Struts s2-052
+
+Struts s2-052 impacts the following versions of Struts:
+
+    Struts 2.1.2 to 2.3.33 (inclusive)
+    Struts 2.5 to 2.5.12 (inclusive)
+
+https://github.com/RealBearcat/S2-052
